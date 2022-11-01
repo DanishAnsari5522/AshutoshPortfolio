@@ -1,0 +1,135 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+
+.bg{
+    background-image: url('./assets//Live-Background.svg') ;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+#headre{
+    width:100%;
+    height:90vh;
+    margin-top:170px;
+}
+
+#headre h1{
+    margin:0 0 10px 0;
+    font-size: 45px;
+    font-weight: 700;
+    color:black;
+}
+
+#header .brand-name{
+    color:#3498db;
+}
+
+#header h2{
+    color:#484848;
+    font-size: 20px;
+}
+
+#header .btn-get-started{
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding:10px 30px;
+    border-radius: 50px;
+    transition: 1s;
+    border:2px solid #3498db;
+    text-decoration: none;
+}
+
+#header .btn-get-started:hover{
+background-color: #3498db;
+color:white;
+border:2px solid #054d7a;
+}
+
+#header .animated{
+    animation:up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+
+.header-image img{
+    height: 500px;
+    margin-top: 20px;
+}
+
+
+/*  */
+
+.skill{
+    font-size: 25px;
+    margin-left: -20px;
+}
+.toolsimg{
+    width: 40px;
+    height: 40px;
+    border-radius: 5px;
+    margin:0 10px;
+}
+
+.toolsimg1{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    margin:0 0px;
+}
+
+.tools ,.work{
+    font-size: 16px;
+}
+
+.development{
+    font-size: 20px;
+}
+
+.fontend{
+    padding:5px 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 200px;
+    text-align: center;
+    margin: 0 10px;
+    /* cursor: pointer; */
+}
+
+.fontend:hover{
+    background-color: black;
+    color:white;
+}
+
+.worklist{
+    display: flex;
+}
+
+
+.name{
+    font-size: 25px;
+    font-weight: bold;
+    color:rgb(4, 64, 48);
+}
+
+
+@-webkit-keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
+
+@keyframes up-down{
+    0%{
+        transform: translateY(10px);
+    }
+    100%{
+        transform: translateY(-10px);
+    }
+}
