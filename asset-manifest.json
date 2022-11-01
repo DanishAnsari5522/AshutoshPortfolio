@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/AshutoshPortfolio/static/css/main.36d641c8.css",
+    "main.js": "/AshutoshPortfolio/static/js/main.53237c29.js",
+    "static/media/ashu.png": "/AshutoshPortfolio/static/media/ashu.80a06a73c94bbbdf3954.png",
+    "static/media/css.png": "/AshutoshPortfolio/static/media/css.96f8b597d9a4f2d051cc.png",
+    "static/media/java.png": "/AshutoshPortfolio/static/media/java.0a0b6fb80c051e110950.png",
+    "static/media/html.png": "/AshutoshPortfolio/static/media/html.6ec17ff006f0041b1e28.png",
+    "static/media/Live-Background.svg": "/AshutoshPortfolio/static/media/Live-Background.9e307a2e3c55bb40dd48.svg",
+    "index.html": "/AshutoshPortfolio/index.html",
+    "main.36d641c8.css.map": "/AshutoshPortfolio/static/css/main.36d641c8.css.map",
+    "main.53237c29.js.map": "/AshutoshPortfolio/static/js/main.53237c29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36d641c8.css",
+    "static/js/main.53237c29.js"
+  ]
+}
